@@ -19,12 +19,12 @@ namespace Dich_Beta
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text="huipizda, Gugyrda!";
+           textBox1.Text="huipizda, Gugyrda!";
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            label1.Text = "Yes";
+            textBox1.Text = "Yes";
         }
 
         private void button2_Click(object sender, EventArgs e)
