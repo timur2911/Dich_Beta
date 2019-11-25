@@ -21,5 +21,10 @@ namespace Dich_Beta
         {
             MessageBox.Show("huipizda");
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
