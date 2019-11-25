@@ -24,7 +24,7 @@ namespace Dich_Beta
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-
+            label1.Text = "Yes";
         }
     }
 }
