@@ -19,7 +19,7 @@ namespace Dich_Beta
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("huipizda");
+            MessageBox.Show("huipizda, Gugyrda!");
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
