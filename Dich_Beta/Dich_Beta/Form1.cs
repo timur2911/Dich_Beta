@@ -26,5 +26,10 @@ namespace Dich_Beta
         {
             label1.Text = "Yes";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hi");
+        }
     }
 }
