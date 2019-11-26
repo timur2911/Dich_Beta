@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Dich_Beta.Properties
+namespace Dich_Beta_1._2.Properties
 {
 
 

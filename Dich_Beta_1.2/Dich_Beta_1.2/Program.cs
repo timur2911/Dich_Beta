@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Dich_Beta
+namespace Dich_Beta_1._2
 {
     static class Program
     {
