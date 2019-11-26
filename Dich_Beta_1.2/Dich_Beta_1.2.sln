@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dich_Beta", "Dich_Beta\Dich_Beta.csproj", "{986A06BA-295A-4C9D-BED9-1E4345989A59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dich_Beta_1.2", "Dich_Beta_1.2\Dich_Beta_1.2.csproj", "{BDE4490F-F7C1-4B45-B300-17690DCDE317}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{986A06BA-295A-4C9D-BED9-1E4345989A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{986A06BA-295A-4C9D-BED9-1E4345989A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{986A06BA-295A-4C9D-BED9-1E4345989A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{986A06BA-295A-4C9D-BED9-1E4345989A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE4490F-F7C1-4B45-B300-17690DCDE317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE4490F-F7C1-4B45-B300-17690DCDE317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE4490F-F7C1-4B45-B300-17690DCDE317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE4490F-F7C1-4B45-B300-17690DCDE317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E1D59070-2F2C-4681-ADD6-29E9618986EA}
+		SolutionGuid = {BDCC096E-1E9E-4E4A-B8E7-7281370C1438}
 	EndGlobalSection
 EndGlobal
