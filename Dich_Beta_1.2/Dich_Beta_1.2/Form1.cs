@@ -16,5 +16,10 @@ namespace Dich_Beta_1._2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            progressBar1.Style = ProgressBarStyle.Marquee;
+        }
     }
 }
